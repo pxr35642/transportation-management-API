@@ -155,3 +155,4 @@ D:\work\vue\transport-frontendAPI\TransportApi\obj\Debug\net10.0\refint\Transpor
 D:\work\vue\transport-frontendAPI\TransportApi\obj\Debug\net10.0\TransportApi.pdb
 D:\work\vue\transport-frontendAPI\TransportApi\obj\Debug\net10.0\TransportApi.genruntimeconfig.cache
 D:\work\vue\transport-frontendAPI\TransportApi\obj\Debug\net10.0\ref\TransportApi.dll
+D:\work\vue\transport-frontendAPI\TransportApi\obj\Debug\net10.0\TransportApi.sourcelink.json
